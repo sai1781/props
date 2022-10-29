@@ -2,7 +2,6 @@
 
 const Display = ({ colors }) => {
     console.log(colors);
-    const number = 12355;
     return (
         <>
         <h2>Colors & ColorCode</h2>
